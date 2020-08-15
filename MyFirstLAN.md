@@ -7,4 +7,6 @@ If you have one WirelessROUTER and one smart phone or laptop, you can compose ve
 
 As you see, smart phone is connected automatically by Wireless method <br> 
 but your laptop may need wire-connections. so you can choose "Conncetions" button, and choose copper straight-Through line <br>
+
+1
  
